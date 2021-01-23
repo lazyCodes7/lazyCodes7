@@ -13,27 +13,26 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <h3>📉GitHub Stats📈</h3>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lazyCodes7&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
 
 
 <center>
  <h3>Connect with me!🧨</h3>
-    <a href="https://discord.gg/XTW52Kt">
-      <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <a href="https://discord.gg/lazyCodes7">
+      <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     </a>
-    <a href="https://twitter.com/abhisheknaiidu">
-      <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <a href="https://twitter.com/HSrishab">
+      <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
-    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/rishab-mudliar-8022171b1/">
+      <img align="left" alt=LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
     <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-      <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+      <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
     </a>
     <a href="https://www.reddit.com/user/geekyabhi/">
-      <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+      <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
     </a>
 </center>
 
