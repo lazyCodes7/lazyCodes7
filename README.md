@@ -1,5 +1,4 @@
 <p align="center"><a href="https://github.com/yashk2000"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-
 <h3>Hi! I am Rishab</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
@@ -15,10 +14,12 @@
 <br/>
 <br/>
 <br/>
+<h3>GitHub Stats</h3>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lazyCodes7&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCodes7&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
 
 <center>
+ <p>Connect with me!</p>
     <a href="https://discord.gg/XTW52Kt">
       <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     </a>
