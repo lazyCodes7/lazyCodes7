@@ -19,7 +19,7 @@
 
 
 <center>
- <p>Connect with me!</p>
+ <h3>Connect with me!</h3>
     <a href="https://discord.gg/XTW52Kt">
       <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     </a>
