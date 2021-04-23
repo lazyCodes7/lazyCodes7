@@ -16,7 +16,7 @@
 <h3>📉GitHub Stats📈</h3>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lazyCodes7&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCodes7&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
-
+<p> <img src=https://komarev.com/ghpvc/?username=lazyCodes7 alt=lazyCodes7/></p>
 <center>
  <h3>Connect with me!🧨</h3>
     <a href="https://discord.gg/lazyCodes7">
