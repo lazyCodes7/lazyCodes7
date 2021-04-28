@@ -7,7 +7,6 @@
   <li>🤿I like to read books and listen to music and sing:)</li>
   <li>🥇Ask me about IoT and I can easily make that person go to sleep</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
-  <li>📱Fun Fact: My phone hangs a lot and is broken :(</li>
   <li>🧥Pronouns: he/him/his</li>
 </ul>
 <br/>
