@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
   <li>👨🏽‍💻Currently I am exploring Android and also exploring AI</li>
-  <li>🎊I am working on malware-detection project with some peers</li>
+  <li>🎊Currently working on a Kaggle problem and it is interesting:)</li>
   <li>🤿I like to read books and listen to music and sing:)</li>
   <li>🥇Ask me about IoT and I can easily make that person go to sleep</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
