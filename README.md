@@ -8,6 +8,7 @@
   <li>🥇Ask me about IoT and I can easily make that person go to sleep</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
   <li>🧥Pronouns: he/him/his</li>
+  <li>:smile:Reach out: <a href="rishabmudliar@amfoss.in">rishabmudliar@amfoss.in</a></li>
 </ul>
 <br/>
 <br/>
