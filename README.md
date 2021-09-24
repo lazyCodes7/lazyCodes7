@@ -2,21 +2,18 @@
 <h3>✨Hi! I am Rishab✨</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
-  <li>👨🏽‍💻Currently I am exploring Android and also exploring AI</li>
-  <li>🎊Currently working on a Kaggle problem and it is interesting:)</li>
+  <li>👨🏽‍💻Sort of fixated on Computer Vision right now</li>
+  <li>🎊I am delving deeper into GANs</li>
   <li>🤿I like to read books and listen to music and sing:)</li>
-  <li>🥇Ask me about IoT and I can easily make that person go to sleep</li>
+  <li>🥇Hackathons are fun and I can sort of give a whole lecture on that so maybe run at that time.</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
   <li>🧥Pronouns: he/him/his</li>
-  <li>:smile:Email: <a href="rishabmudliar@amfoss.in">rishabmudliar@amfoss.in</a></li>
+  <li>Fun fact: I turn on my phone through my laptop.(Insert sed and poor noises)</li>
+  <li>Email: <a href="rishabmudliar@amfoss.in">rishabmudliar@amfoss.in</a></li>
 </ul>
 <br/>
 <br/>
-<br/>
-<h3>📉GitHub Stats📈</h3>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lazyCodes7&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCodes7&hide=html&title_color=03E6FF&text_color=9f9f9f&icon_color=79ff97&bg_color=151515" />
-<p> <img src=https://komarev.com/ghpvc/?username=lazyCodes7 alt=lazyCodes7/></p>
+
 <center>
  <h3>Connect with me!🧨</h3>
     <a href="https://discord.gg/lazyCodes7">
