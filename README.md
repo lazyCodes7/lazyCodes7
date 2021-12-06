@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
   <li>👨🏽‍💻Sort of fixated on Computer Vision right now</li>
-  <li>🎊I am delving deeper into GANs</li>
+  <li>🎊I am proving that ViTs are strong.</li>
   <li>🤿I like to read books and listen to music and sing:)</li>
   <li>🥇Hackathons are fun and I can sort of give a whole lecture on that so maybe run at that time.</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
