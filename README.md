@@ -19,16 +19,16 @@
     <a href="https://discord.gg/lazyCodes7">
       <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     </a>
-    <a href="https://twitter.com/HSrishab">
+    <a href="https://twitter.com/cheesetaco19">
       <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
     </a>
     <a href="https://www.linkedin.com/in/rishab-mudliar-8022171b1/">
       <img align="left" alt=LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
     </a>
-    <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+    <a href="https://open.spotify.com/user/ndwhw8bvxpsxhk0ywtyeamx47">
       <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
     </a>
-    <a href="https://www.reddit.com/user/geekyabhi/">
+    <a href="https://www.reddit.com/user/Unlikely-Lock3410">
       <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
     </a>
 </center>
