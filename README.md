@@ -2,14 +2,14 @@
 <h3>✨Hi! I am Rishab✨</h3>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <ul>
-  <li>👨🏽‍💻Sort of fixated on Computer Vision right now</li>
-  <li>🎊I am proving that ViTs are strong.</li>
+  <li>👨🏽‍💻Currently pursuing MSc in ML at Tue</li>
+  <li>Exploring how machines learn, think and how strong they are.</li>
   <li>🤿I like to read books and listen to music and sing:)</li>
   <li>🥇Hackathons are fun and I can sort of give a whole lecture on that so maybe run at that time.</li>
   <li>🔫A huge comic book fan and love watching tons of Marvel and DC content</li>
   <li>🧥Pronouns: he/him/his</li>
-  <li>Fun fact: I turn on my phone through my laptop.(Insert sed and poor noises)</li>
-  <li>Email: <a href="rishabmudliar@amfoss.in">rishabmudliar@amfoss.in</a></li>
+  <li>Fun fact: I have watched B99 at least 20 times</li>
+  <li>Email: <a href="rishabmudliar@gmail.com">rishabmudliar@gmail.com</a></li>
 </ul>
 <br/>
 <br/>
